@@ -12,6 +12,8 @@ So far this repository includes:
 
 - Simple 1D discrete Fourier Transform (fourier.py)
 
+These python scripts are purely for educational purposes (and for fun). I hope to add more!
+
 Prerequisites:
 
 - Pyton >= 3.6
