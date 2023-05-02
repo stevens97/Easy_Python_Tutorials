@@ -1,5 +1,19 @@
-# Eratosthenes
+# Tutoring Code
 
-Very simple python script to generate prime numbers based on the Sieve of Eratosthenes. 
+This repository contains some basic Python scripts for educatioanl purposes, ideal for school learners and undergraduates first learning how to code.
 
-Solely for educational purposes. (A fun coding demonstration in class for school learners / undergraduates).
+So far this repository includes:
+
+- The Sieve of Eratosthenes to generate Prime Numbers (eratosthenes.py)
+
+- The Fibonacci Sequence (fibonacci.py)
+
+- The "Tennis-game" (tennis.py)
+
+- Simple 1D discrete Fourier Transform (Fourier.py)
+
+Prerequisites:
+
+- Pyton >= 3.6
+- numpy >= 1.16
+- scipy >= 1.2
