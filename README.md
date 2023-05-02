@@ -19,6 +19,6 @@ These python scripts are purely for educational purposes (and for fun). I hope t
 
 Prerequisites:
 
-- Pyton >= 3.6
+- Python >= 3.6
 - numpy >= 1.16
 - scipy >= 1.2
