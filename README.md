@@ -1,4 +1,4 @@
-# Tutoring Code
+# Python Tutorials
 
 This repository contains some basic Python scripts for educatioanl purposes, ideal for school learners and undergraduates first learning how to code.
 
