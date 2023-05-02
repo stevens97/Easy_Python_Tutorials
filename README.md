@@ -10,7 +10,7 @@ So far this repository includes:
 
 - The "Tennis-game" (tennis.py)
 
-- Simple 1D discrete Fourier Transform (Fourier.py)
+- Simple 1D discrete Fourier Transform (fourier.py)
 
 Prerequisites:
 
