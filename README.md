@@ -3,7 +3,7 @@
 This repository contains some basic Python scripts/tutorials for educatioanl purposes, ideal for school learners and undergraduates first learning how to code.
 
 <img src="https://i.pinimg.com/736x/26/1f/99/261f99dbfee01f634f210472e80e73aa.jpg" width="50%" height="50%">
-Photo credit: http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jpg
+Photo credit: https://i.pinimg.com/736x/26/1f/99/261f99dbfee01f634f210472e80e73aa.jpg
 
 So far this repository includes:
 
