@@ -47,11 +47,13 @@ def find_prime(p):
 		print("Prime number #{} = {}".format(p,found_prime))
 	else:
 		print("The prime number you were looking for didn't exist, generate more prime numbers with the Eratosthenes function")
-		
-# Generate the first 10 000 prime numbers
-# -----------------
-eratosthenes(10000)
 
-# What is the 327th prime number?
-# -----------------
-find_prime(327)
+if __name__ == '__main__':
+		
+	# Generate the first 10 000 prime numbers
+	# -----------------
+	eratosthenes(10000)
+	
+	# What is the 327th prime number?
+	# -----------------
+	find_prime(327)
