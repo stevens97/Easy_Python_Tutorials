@@ -97,6 +97,8 @@ def tennis_player_2():
 			player_1_score = 15
 			play_tennis(True)
 
-# Initiate game
-# -----------------
-play_tennis(True)
+if __name__ == '__main__':
+
+	# Initiate game
+	# -----------------
+	play_tennis(True)
